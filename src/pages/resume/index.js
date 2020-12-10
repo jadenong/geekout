@@ -5,7 +5,7 @@ import Donations from "../components/Donations";
 
 /**
  *  @description
- *  This is the root (or index) page of our application.
+ *  This is the root (or index) page of our application
  *
  *  @summary
  *  From the folder structure (being the index page), you can access this page via ---> http://localhost:3000/
